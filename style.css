@@ -83,8 +83,7 @@ main {
     color: #333;
 }
 
-.option:hover {
-    border-color: #667eea;
+.option:not(.selected):hover {
     background: #f5f7ff;
 }
 
