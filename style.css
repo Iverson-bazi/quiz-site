@@ -162,6 +162,7 @@ main {
     font-size: 18px;
     font-weight: 500;
     display: none;
+    white-space: pre-line; /* 让 \n 换行生效 */
 }
 
 .result-area.correct {
